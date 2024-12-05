@@ -1,0 +1,28 @@
+div {
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+div {
+  font-size: 16px;
+}
+
+.path-bar {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.path-bar span {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+  margin-right: 5px;
+}
