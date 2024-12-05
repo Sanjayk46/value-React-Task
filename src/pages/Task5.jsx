@@ -46,6 +46,7 @@ const BoxSplit = () => {
             top: `${box.y}px`,
             backgroundColor: "white",
             border: "1px solid black",
+            color:"black",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
