@@ -56,7 +56,7 @@ const ElementTransfer = () => {
         </button>
         <button onClick={() => handleTransferAll(bucket1, bucket2, setBucket1, setBucket2)}>Add All </button>
         <button onClick={() => handleTransferAll(bucket2, bucket1, setBucket2, setBucket1)}> Remove All</button>
-      </div>
+      </div> 
       <div className="bucket">
         <h3>Bucket 2</h3>
         {bucket2.map(item => (
