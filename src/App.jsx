@@ -9,7 +9,7 @@ import BoxSplit from './pages/Task5'
 const App = () => {
   return (
     <>
-    <InfiniteScroll/>
+    <BoxSplit/>
     </>
   )
 }
